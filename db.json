@@ -5,5 +5,8 @@
         "name": "Gertrudis Tatterton",
         "age": 18,
         "email": "gtatterton0@ehow.com"
-      }]
+      }],
+      "inventory":[],
+      "exam":[]
+
 }
